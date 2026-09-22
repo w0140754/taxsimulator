@@ -1,4 +1,4 @@
-# Rookie’s Tax Sim — Public Build
+# Rookie’s Tax Sim — Public Build 2
 
 This folder contains the public classroom build of **Rookie’s Tax Sim**.
 
